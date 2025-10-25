@@ -1,0 +1,51 @@
+﻿Car Name,Year,Kilometers Driven,Fuel Type,Transmission,Price,Location,EMI,RTO,Area,Kilometers (Numeric),Price (Numeric)
+Tata Nexon,2020,40.97k km,Petrol,Manual,₹2.45 lakh,Mumbai,"₹5,450/m",MH-02,Thakur Village Kandivali E,40.97,2.45
+Tata Nexon,2021,8.33k km,Petrol,Auto,₹9.51 lakh,Mumbai,"₹18,096/m",MH-03,Thakur Village Kandivali E,8.33,9.51
+Tata Tigor,2019,67.39k km,Diesel,Manual,₹3.58 lakh,Mumbai,"₹6,992/m",MH-47,Mulund West,67.39,3.58
+Tata Tiago,2020,42.18k km,Petrol,Manual,₹5.60 lakh,Mumbai,"₹10,948/m",MH-47,Dombivli East,42.18,5.6
+Tata Altroz,2021,39.65k km,Petrol,Manual,₹3.54 lakh,Mumbai,"₹6,922/m",MH-47,Goregaon,39.65,3.54
+Tata Punch,2022,2.93k km,Petrol,Manual,₹7.75 lakh,Mumbai,"₹15,151/m",MH-02,Thane West,2.93,7.75
+Tata Nexon,2021,11.02k km,Petrol,Auto,₹4.73 lakh,Mumbai,"₹9,247/m",MH-03,Seawood,11.02,4.73
+Tata Safari,2018,54.67k km,Diesel,Manual,₹12.26 lakh,Mumbai,"₹23,338/m",MH-12,Goregaon,54.67,12.26
+Tata Tiago,2020,19.89k km,Petrol,Manual,₹4.70 lakh,Mumbai,"₹9,189/m",MH-04,Thakur Village Kandivali E,19.89,4.7
+Tata Tigor,2019,51.22k km,Petrol,Manual,₹3.35 lakh,Mumbai,"₹6,557/m",MH-48,Goregaon,51.22,3.35
+Tata Punch,2018,10.67k km,Petrol,Manual,₹2.81 lakh,Mumbai,₹18776/m,MH-10,Borivali,10.67,2.81
+Tata Nexon,2019,19.12k km,Petrol,Auto,₹5.33 lakh,Mumbai,₹13788/m,MH-09,Kandivali East,19.12,5.33
+Tata Punch,2021,64.44k km,Diesel,Manual,₹9.39 lakh,Mumbai,₹5700/m,MH-19,Kandivali East,64.44,9.39
+Tata Harrier,2021,79.85k km,Diesel,Manual,₹15.39 lakh,Mumbai,₹12406/m,MH-30,Dombivli East,79.85,15.39
+Tata Tigor,2020,5.13k km,Diesel,Auto,₹6.74 lakh,Mumbai,₹4218/m,MH-04,Kandivali East,5.13,6.74
+Tata Altroz,2023,51.32k km,CNG,Auto,₹6.22 lakh,Mumbai,₹8120/m,MH-08,Seawood,51.32,6.22
+Tata Punch,2018,84.76k km,CNG,Manual,₹5.26 lakh,Mumbai,₹5250/m,MH-42,Mulund West,84.76,5.26
+Tata Safari,2021,71.93k km,Diesel,Manual,₹15.70 lakh,Mumbai,₹12629/m,MH-20,Borivali,71.93,15.7
+Tata Harrier,2019,59.23k km,Petrol,Auto,₹2.61 lakh,Mumbai,₹3229/m,MH-39,Kandivali East,59.23,2.61
+Tata Nexon,2022,43.96k km,Diesel,Manual,₹4.47 lakh,Mumbai,₹14164/m,MH-17,Dombivli East,43.96,4.47
+Tata Altroz,2024,66.41k km,Petrol,Auto,₹11.43 lakh,Mumbai,₹11011/m,MH-32,Mulund West,66.41,11.43
+Tata Nexon,2020,69.69k km,Diesel,Auto,₹5.61 lakh,Mumbai,₹11905/m,MH-10,Seawood,69.69,5.61
+Tata Tigor,2019,72.59k km,Petrol,Auto,₹7.55 lakh,Mumbai,₹8117/m,MH-23,Thane West,72.59,7.55
+Tata Tiago,2024,7.38k km,CNG,Manual,₹8.94 lakh,Mumbai,₹10359/m,MH-20,Kandivali East,7.38,8.94
+Tata Safari,2018,84.73k km,CNG,Manual,₹14.65 lakh,Mumbai,₹13563/m,MH-30,Thane West,84.73,14.65
+Tata Tigor,2024,18.53k km,Petrol,Auto,₹7.57 lakh,Mumbai,₹17210/m,MH-26,Seawood,18.53,7.57
+Tata Harrier,2018,76.11k km,Diesel,Manual,₹10.85 lakh,Mumbai,₹14141/m,MH-46,Mulund West,76.11,10.85
+Tata Nexon,2019,73.14k km,Diesel,Auto,₹6.30 lakh,Mumbai,₹3056/m,MH-13,Seawood,73.14,6.3
+Tata Harrier,2019,33.41k km,CNG,Auto,₹14.57 lakh,Mumbai,₹13778/m,MH-49,Goregaon,33.41,14.57
+Tata Tiago,2020,6.50k km,Petrol,Manual,₹7.40 lakh,Mumbai,₹15999/m,MH-47,Mulund West,6.5,7.4
+Tata Tiago,2020,29.83k km,Petrol,Auto,₹14.38 lakh,Mumbai,₹13624/m,MH-48,Thane West,29.83,14.38
+Tata Altroz,2022,88.10k km,Petrol,Manual,₹4.19 lakh,Mumbai,₹18312/m,MH-22,Dombivli East,88.1,4.19
+Tata Nexon,2020,24.75k km,CNG,Auto,₹6.81 lakh,Mumbai,₹3888/m,MH-04,Dombivli East,24.75,6.81
+Tata Harrier,2021,54.71k km,Diesel,Auto,₹13.34 lakh,Mumbai,₹9715/m,MH-37,Borivali,54.71,13.34
+Tata Nexon,2024,13.62k km,CNG,Manual,₹14.91 lakh,Mumbai,₹12605/m,MH-47,Mulund West,13.62,14.91
+Tata Harrier,2024,7.54k km,Diesel,Auto,₹12.66 lakh,Mumbai,₹4422/m,MH-30,Dombivli East,7.54,12.66
+Tata Harrier,2023,80.42k km,CNG,Manual,₹11.43 lakh,Mumbai,₹14847/m,MH-50,Kandivali East,80.42,11.43
+Tata Altroz,2020,45.53k km,CNG,Manual,₹12.86 lakh,Mumbai,₹13254/m,MH-03,Dombivli East,45.53,12.86
+Tata Harrier,2023,90.60k km,Diesel,Manual,₹13.15 lakh,Mumbai,₹3230/m,MH-31,Mulund West,90.6,13.15
+Tata Safari,2021,83.36k km,Diesel,Auto,₹11.69 lakh,Mumbai,₹11355/m,MH-44,Goregaon,83.36,11.69
+Tata Altroz,2022,34.77k km,Petrol,Manual,₹12.47 lakh,Mumbai,₹9551/m,MH-27,Borivali,34.77,12.47
+Tata Harrier,2023,82.38k km,CNG,Auto,₹4.14 lakh,Mumbai,₹15154/m,MH-05,Seawood,82.38,4.14
+Tata Tiago,2021,15.59k km,Petrol,Auto,₹6.35 lakh,Mumbai,₹14142/m,MH-01,Kandivali East,15.59,6.35
+Tata Tigor,2020,8.64k km,Petrol,Auto,₹14.94 lakh,Mumbai,₹16408/m,MH-18,Mulund West,8.64,14.94
+Tata Altroz,2022,47.32k km,CNG,Auto,₹11.19 lakh,Mumbai,₹12926/m,MH-46,Dombivli East,47.32,11.19
+Tata Altroz,2023,89.77k km,Petrol,Auto,₹4.44 lakh,Mumbai,₹4049/m,MH-10,Thane West,89.77,4.44
+Tata Harrier,2018,61.52k km,Petrol,Manual,₹6.18 lakh,Mumbai,₹12755/m,MH-28,Thane West,61.52,6.18
+Tata Tiago,2021,73.43k km,Petrol,Manual,₹11.61 lakh,Mumbai,₹11184/m,MH-01,Kandivali East,73.43,11.61
+Tata Tigor,2017,86.79k km,Petrol,Manual,₹7.56 lakh,Mumbai,₹7495/m,MH-15,Dombivli East,86.79,7.56
+Tata Altroz,2019,70.69k km,CNG,Auto,₹6.37 lakh,Mumbai,₹12633/m,MH-12,Seawood,70.69,6.37
